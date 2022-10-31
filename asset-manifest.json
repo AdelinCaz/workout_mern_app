@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workout_mern_app/static/css/main.a128d683.css",
+    "main.js": "/workout_mern_app/static/js/main.86a2b444.js",
+    "index.html": "/workout_mern_app/index.html",
+    "main.a128d683.css.map": "/workout_mern_app/static/css/main.a128d683.css.map",
+    "main.86a2b444.js.map": "/workout_mern_app/static/js/main.86a2b444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a128d683.css",
+    "static/js/main.86a2b444.js"
+  ]
+}
